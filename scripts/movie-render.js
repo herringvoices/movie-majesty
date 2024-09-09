@@ -1,3 +1,4 @@
+
 export const renderMoviesToDOM = (movieHTML) => {
     const movieList = document.getElementById('movie-list');
  
